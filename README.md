@@ -28,9 +28,10 @@ Make sure you have the following installed:
    cd dashboard-project
 
 2. Install the package:
-```bash
+   ```bash
    npm install
 
-3. Run the app:
 
-npm run dev
+3. Run the app:
+   ```bash
+   npm run dev
