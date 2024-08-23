@@ -8,9 +8,8 @@ function App() {
 
   return (
     <>
-    <div className="app bg-d-bg p-10 m-16">
+    <div className="app">
       <Dashboard />
-      <Search />
     </div>
     </>
   )
