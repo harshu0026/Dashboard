@@ -28,7 +28,7 @@ Make sure you have the following installed:
    cd dashboard-project
 
 2. Install the package:
-
+```bash
    npm install
 
 3. Run the app:
